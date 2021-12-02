@@ -16,7 +16,6 @@ After loaded dataset, I used
 |weighted avg   | 0.81      | 0.81  | 0.81      | 359       |
 
 
-#
 # BERT
 ## Clean Data
 
@@ -47,4 +46,5 @@ After loaded dataset, I used
 
 # Code
 Notebooks of two methods are following, some outputs have been removed since they are tedious and meaningless.
+
 For the complete files, [BERT.ipynb](https://github.com/BillChow117/BU_CS640_2021/blob/main/Programmings/PA3/BERT.ipynb) and [NB.ipynb](https://github.com/BillChow117/BU_CS640_2021/blob/main/Programmings/PA3/DataSetLoading_and_Preprocessing.ipynb).
